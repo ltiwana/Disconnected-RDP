@@ -10,7 +10,7 @@ Public Class Form1
         Dim timer As New Timer()
         Dim userid As String = Environment.UserName
 
-        'I am using this to minipulate existing username
+        'I am using this to manipulate existing username
         'adminuser = userid.Substring(0, 2) & "adminuser"
 
         adminuser = userid

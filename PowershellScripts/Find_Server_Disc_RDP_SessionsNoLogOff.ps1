@@ -6,7 +6,9 @@
 # $DownServer is a file location to collect server that do not respond to ping request
 
 $UserNames = "user1", "user2","user3"
-$rootfolder = "D:\SessionLogs\" # Make sure to change this
+
+$rootfolder = "D:\SessionLogs\" # make sure to change this path
+
 $ErrorFile = "$rootfolder\ServerWithError.txt"
 $DownServer = "$rootfolder\ServerDown.txt"
 
