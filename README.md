@@ -9,7 +9,8 @@ How I created a small App that helped our admins to stay on top of their disconn
 
 ![alt text](/Images/Main.png)
 
-Development:
+Development Component:
+
 Front-end is developed in vb.net and backend is developed in PowerShell.
 
 
