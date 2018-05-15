@@ -7,7 +7,7 @@ How I created a small App that helped our admins to stay on top of their disconn
 2. Users have more control and visibility over their RDP connections.
 3. Some RDP connections were left open willingly to run jobs or processes, so I didn't want to force a logoff policy.
 
-
+![alt text](/Images/Main.png)
 
 Development:
 Front-end is developed in vb.net and backend is developed in PowerShell.
