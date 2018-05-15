@@ -37,4 +37,6 @@ Front-end is developed in vb.net and backend is developed in PowerShell.
 **Back-end script 2:**
 1. Check for any "Username.Logoff" files
 2. If a logoff file is found then import disconnected RDP sessions from the CSV files (relevant to username) and start logging off the disconnected RDP sessions.
-3. Update the CSV file with success message.Start here: https://github.com/ltiwana/Disconnected-RDP/wiki
+3. Update the CSV file with success message.
+
+Start here: https://github.com/ltiwana/Disconnected-RDP/wiki
