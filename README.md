@@ -40,3 +40,4 @@ Front-end is developed in vb.net and backend is developed in PowerShell.
 3. Update the CSV file with success message.
 
 Start here: https://github.com/ltiwana/Disconnected-RDP/wiki
+Read my LinkedIn post here: https://www.linkedin.com/pulse/how-i-created-small-app-helped-our-admins-stay-top-orphaned-tiwana/
